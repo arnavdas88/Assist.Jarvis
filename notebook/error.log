@@ -1,0 +1,4 @@
+weather.current|requests.exceptions.ConnectionError
+joke|TypeErrorspell|actions.exceptions.NoActionFoundError
+pandora.play|actions.exceptions.NoActionFoundError
+pandora.stop|actions.exceptions.NoActionFoundError
