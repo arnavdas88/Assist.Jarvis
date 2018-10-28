@@ -44,3 +44,15 @@ The Dialog Generation is done by a Sequence-to-Sequence Model.
 <div align="center">
   <img src="https://cdn-images-1.medium.com/max/2000/1*sO-SP58T4brE9EHazHSeGA.png" height = "80%" width = "75%">
 </div>
+
+----------
+
+# Usage
+
+The python files are stored in the './src/' folder. A standalone jupyter notebook is saved inside the folder notebook.
+The Folder imgs contain screenshots of the program.
+
+
+Run the file 'main.py' inside the folder './src' to run the program.
+
+<b><i><u>* Estimated time for the application to load : 36 seconds</u></i></b>
