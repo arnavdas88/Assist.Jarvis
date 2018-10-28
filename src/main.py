@@ -1,4 +1,9 @@
 from system import *
+
+print("Loading...")
+progressbar()
+
+clear_screen()
 from dialog import *
 from entity import *
 from func import *
@@ -117,10 +122,7 @@ actionJar.Add('how.do.i.activate')
 
 clear_screen()
 
-print("Loading...")
-progressbar()
 
-clear_screen()
 
 print("All modules loaded successfully...")
 print("Closed domain task oriented bot operational...")
