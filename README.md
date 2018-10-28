@@ -56,3 +56,18 @@ The Folder imgs contain screenshots of the program.
 Run the file 'main.py' inside the folder './src' to run the program.
 
 <b><i><u>* Estimated time for the application to load : 36 seconds</u></i></b>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arnavdas88/Assist.Jarvis/master/imgs/console.png" height = "80%" width = "75%">
+</div>
+
+Try typing Hi or hello.....
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arnavdas88/Assist.Jarvis/master/imgs/Example1.png" height = "80%" width = "75%">
+</div>
+First, it shows the intent of the text, then the entities, the generated dialog and at last, the reply from the bot...
+
+------
+Try asking about the weather.....
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arnavdas88/Assist.Jarvis/master/imgs/Example2.png" height = "80%" width = "75%">
+</div>
