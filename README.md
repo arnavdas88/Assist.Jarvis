@@ -12,8 +12,10 @@ It primarily functions in 4 different phase:<br>
 (4) A Sequence-to-Sequence model is used to generate the final output response.<br>
 
 Dataflow for the weather intent :
-<div align="center">
-  <img src="https://pbs.twimg.com/media/DQj-DiUUIAAm3M9.png"><br><br>
+<div  align="center">
+  <img src="https://pbs.twimg.com/media/DQj-DiUUIAAm3M9.png" height = "60%" width = "60%">
+
+  <img src="https://raw.githubusercontent.com/arnavdas88/Assist.Jarvis/master/imgs/Example3.png" height = "60%" width = "60%"><br><br>
 </div>
 
 --------
