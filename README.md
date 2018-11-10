@@ -2,6 +2,10 @@
 A functional chatbot inspired from Google's DialogFlow
 ### Google's DialogFlow
 [DialogFlow](https://dialogflow.com/) is a framework by google that allow developers to create their own goal oriented chatbot using Machine Learning and NLP.<br>
+
+#### * The pre-trained model is hypertuned to get some specific results, train your own model to get better results...
+
+
 ### About This Project
 #### How it works
 It primarily functions in 4 different phase:<br>
