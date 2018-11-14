@@ -15,6 +15,14 @@ It primarily functions in 4 different phase:<br>
 (3) The Entities are then passed to an Action(a function) associated with the Intent.<br>
 (4) A Sequence-to-Sequence model is used to generate the final output response.<br>
 
+
+
+<div  align="center">
+  <img src="https://github.com/arnavdas88/Assist.Jarvis/blob/master/imgs/Picture1.png" height = "60%" width = "60%">
+</div>
+
+--------
+## Internal operation for a weather query
 Dataflow for the weather intent :
 <div  align="center">
   <img src="https://pbs.twimg.com/media/DQj-DiUUIAAm3M9.png" height = "60%" width = "60%">
