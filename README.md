@@ -1,5 +1,6 @@
-# Assist.Jarvis
-A functional chatbot inspired from Google's DialogFlow
+# Assist.Jarvis 
+##### (Proof Of Concept)
+A functional PoC chatbot inspired from Google's DialogFlow
 ### Google's DialogFlow
 [DialogFlow](https://dialogflow.com/) is a framework by google that allow developers to create their own goal oriented chatbot using Machine Learning and NLP.<br>
 
