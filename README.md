@@ -43,7 +43,9 @@ The First layer is an LSTM followes by 2 Dense layers.
 
 <div align="center">
   <img src="https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png" height = "50%" width = "50%">
-  LSTM layer
+</div>
+<div align="center">
+  <u><b>LSTM Layer</b></u>
 </div>
 
 -------
