@@ -560,6 +560,10 @@
         "output": "time"
     },
     {
+        "input": "what is the time",
+        "output": "time"
+    },
+    {
         "input": "what time is it in {place}",
         "output": "time"
     },
@@ -580,6 +584,10 @@
         "output": "time"
     },
     {
+        "input": "what is the time at {place}",
+        "output": "time"
+    },
+    {
         "input": "what ' s the time in {place} right now",
         "output": "time"
     },
@@ -589,6 +597,10 @@
     },
     {
         "input": "what ' s the time right now in {place}",
+        "output": "time"
+    },
+    {
+        "input": "what is the time right now in {place}",
         "output": "time"
     },
     {
@@ -2018,6 +2030,46 @@
     {
         "input": "what ' s a good joke",
         "output": "joke"
+    },
+    {
+        "input": "who is {person}",
+        "output": "ask"
+    },
+    {
+        "input": "what is a {noun}",
+        "output": "ask"
+    },
+    {
+        "input": "when did Stan Lee died",
+        "output": "ask"
+    },
+    {
+        "input": "In which state does the river {noun} flows",
+        "output": "ask"
+    },
+    {
+        "input": "when did {person} died",
+        "output": "ask"
+    },
+    {
+        "input": "when did Napolean fought his last war",
+        "output": "ask"
+    },
+    {
+        "input": "when did Stan Lee died",
+        "output": "ask"
+    },
+    {
+        "input": "when did {person} fought his last war",
+        "output": "ask"
+    },
+    {
+        "input": "what is a terminal",
+        "output": "ask"
+    },
+    {
+        "input": "what is bigbang",
+        "output": "ask"
     },
     {
         "input": "how to do {action} in c",
