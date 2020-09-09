@@ -26,7 +26,7 @@ It primarily functions in 4 different phase:<br>
 ## Internal operation for a weather query
 Dataflow for the weather intent :
 <div  align="center">
-  <img src="https://pbs.twimg.com/media/DQj-DiUUIAAm3M9.png" height = "60%" width = "60%">
+  <img src="https://miro.medium.com/max/500/1*7qXkp_4K9GosVCyghDwnWQ.png" height = "60%" width = "60%">
 
   <img src="https://raw.githubusercontent.com/arnavdas88/Assist.Jarvis/master/imgs/Example3.png" height = "60%" width = "60%"><br><br>
 </div>
